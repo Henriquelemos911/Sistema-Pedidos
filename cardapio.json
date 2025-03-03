@@ -1,0 +1,50 @@
+[
+    {
+        "ID": "0001",
+        "nome": "Hamburguer",
+        "composicao": "Pao, carne, queijo, alface, tomate, molho especial",
+        "preco": 15.0
+    },
+    {
+        "ID": "0002",
+        "nome": "Pizza Margherita",
+        "composicao": "Massa, molho de tomate, queijo mussarela, manjericao",
+        "preco": 30.0
+    },
+    {
+        "ID": "0003",
+        "nome": "Salada Caesar",
+        "composicao": "Alface, frango grelhado, croutons, queijo parmesao, molho Caesar",
+        "preco": 20.0
+    },
+    {
+        "ID": "0004",
+        "nome": "Sushi Combo",
+        "composicao": "10 pecas de sushi variado",
+        "preco": 40.0
+    },
+    {
+        "ID": "0005",
+        "nome": "Suco de Laranja",
+        "composicao": "Suco natural de laranja",
+        "preco": 8.0
+    },
+    {
+        "ID": "0006",
+        "nome": "Refrigerante",
+        "composicao": "Lata de refrigerante (Coca-Cola, Guarana, Fanta)",
+        "preco": 5.0
+    },
+    {
+        "ID": "0007",
+        "nome": "Batata Frita",
+        "composicao": "Batata frita crocante",
+        "preco": 12.0
+    },
+    {
+        "ID": "0008",
+        "nome": "Sorvete",
+        "composicao": "Sorvete de baunilha com cobertura de chocolate",
+        "preco": 10.0
+    }
+]
